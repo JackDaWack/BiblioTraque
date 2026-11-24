@@ -1,4 +1,4 @@
-package model;
+package com.example.bibliotraque.model;
 
 public class Book {
     private String title;
